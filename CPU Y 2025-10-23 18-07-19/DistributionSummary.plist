@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CPU Y.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B22D5CA753D59C84D04C772103A0706BD4254670</string>
+				<key>dateExpires</key>
+				<string>23.10.26</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9X3FQB7KP5.XP.CPU-Y</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9X3FQB7KP5</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>CPU Y.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e5559b47-21eb-40ad-ba2e-9dc9f6bd61d8</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: XP.CPU-Y</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9X3FQB7KP5</string>
+				<key>name</key>
+				<string>Enzo Quirici</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

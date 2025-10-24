@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://office-works.ch</string>
+		<key>displayImageURL</key>
+		<string>https://media.discordapp.net/attachments/1382092123536490569/1430598108672430322/logo.png?ex=68fb0490&amp;is=68f9b310&amp;hm=89e35db6674625d754352022bbb660e9361277baa0976f520edd03d020263eb9&amp;=&amp;format=webp&amp;quality=lossless&amp;width=1288&amp;height=1288</string>
+		<key>fullSizeImageURL</key>
+		<string>https://media.discordapp.net/attachments/1382092123536490569/1430598108672430322/logo.png?ex=68fb0490&amp;is=68f9b310&amp;hm=89e35db6674625d754352022bbb660e9361277baa0976f520edd03d020263eb9&amp;=&amp;format=webp&amp;quality=lossless&amp;width=1288&amp;height=1288</string>
+	</dict>
+	<key>method</key>
+	<string>development</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>9X3FQB7KP5</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
